@@ -5,7 +5,7 @@ Hello, my name is Miguel Rocha. I'm a student at ESTGL taking an associate degre
 
 
 Whats going on at the moment:
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning Java and web developemnet
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning JavaScript and web developemnet
 
 
